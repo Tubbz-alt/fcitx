@@ -1,5 +1,6 @@
 [Desktop Entry]
 _Name=Fcitx Configuration
+Name[zh_CN]=输入法配置
 _GenericName=Input Method Configuration
 _Comment=Change Fcitx Configuration
 Exec=fcitx-configtool

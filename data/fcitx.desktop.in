@@ -1,5 +1,6 @@
 [Desktop Entry]
 _Name=Fcitx
+Name[zh_CN]=输入法
 _GenericName=Input Method
 _Comment=Start Input Method
 Exec=fcitx
